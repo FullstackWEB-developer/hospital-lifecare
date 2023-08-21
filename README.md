@@ -14,7 +14,7 @@
 <h2 style="color:cyan">Installation</h2>
 <ul>
     <li>Clone the Repo: <br> </li>
-    <li style=""> > git clone https://github.com/tauseedzaman/hospitalMS.git</li>
+    <li style=""> > git clone https://github.com/FullstackWEB-developer/hospital-lifecare.git</li>
     <li> > cd hospitalMS</li>
     <li> > composer install or composer update</li>
     <li> > cp .env.example .env</li>
@@ -29,6 +29,5 @@
 
 
 `
-    [For Online Demo Click Me](https://hospital-management-system.tauseedzaman.com)
 
 
